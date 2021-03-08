@@ -1,0 +1,485 @@
+{
+  "id": 1,
+  "created_by": {
+    "id": 1,
+    "firstname": "Lucky",
+    "lastname": "Hlakaza",
+    "username": null
+  },
+  "updated_by": {
+    "id": 1,
+    "firstname": "Lucky",
+    "lastname": "Hlakaza",
+    "username": null
+  },
+  "created_at": "2020-12-19T17:38:45.583Z",
+  "updated_at": "2020-12-22T23:53:33.765Z",
+  "profile": {
+    "id": 1,
+    "avatarUrl": "avatar.jpg",
+    "name": "Lucky Hlakaza",
+    "jobTitle": "Fullstack Developer, Graphic Designer",
+    "backgroundUrl": "background.jpg",
+    "avatar": null,
+    "background": null
+  },
+  "skills": [
+    {
+      "id": 1,
+      "name": "Angular",
+      "strength": 80
+    },
+    {
+      "id": 13,
+      "name": "Node.js",
+      "strength": 65
+    },
+    {
+      "id": 12,
+      "name": "JavaScript",
+      "strength": 85
+    },
+    {
+      "id": 2,
+      "name": "jQuery",
+      "strength": 85
+    },
+    {
+      "id": 14,
+      "name": "HTML/CSS/SASS/LESS",
+      "strength": 95
+    },
+    {
+      "id": 10,
+      "name": "Bootstrap",
+      "strength": 90
+    },
+    {
+      "id": 3,
+      "name": "Typescript",
+      "strength": 80
+    },
+    {
+      "id": 6,
+      "name": "Wordpress",
+      "strength": 65
+    },
+    {
+      "id": 9,
+      "name": "MongoDB",
+      "strength": 70
+    },
+    {
+      "id": 15,
+      "name": "SQL",
+      "strength": 45
+    },
+    {
+      "id": 11,
+      "name": "Photoshop",
+      "strength": 95
+    },
+    {
+      "id": 4,
+      "name": "Git",
+      "strength": 90
+    },
+    {
+      "id": 5,
+      "name": "TFS",
+      "strength": 75
+    },
+    {
+      "id": 12,
+      "name": "Jira",
+      "strength": 80
+    },
+    {
+      "id": 13,
+      "name": "VS Code",
+      "strength": 90
+    },
+    {
+      "id": 14,
+      "name": "Visual Studio",
+      "strength": 90
+    }
+  ],
+  "about": {
+    "id": 1,
+    "heading": "Personal Summary",
+    "summery": "I am a self-taught UI / front end specialist. I specialize in rapid UI development across all screen resolutions and devices. My interests are in tracking UI interactions and monitoring the effects of varying UI element placements. I have experience in various languages of web development acquired over the past 6 years. I am a hard worker and a fast learner who is passionate about technology. To keep my skills relevant I attend meetups and study online courses at Plural sight, Udemy, Alison, and Coursetro."
+  },
+  "experience": [
+    {
+      "id": 5,
+      "company": "Osiris Trading",
+      "startdate": "June 2017",
+      "enddate": null,
+      "position": "Web Developer",
+      "summery": "OSIRIS is a turn-key solutions business powering Betway across the globe. My role is to build and maintain sports betting web applications using Angular2 and above. I have had the opportunity to work on multiple projects including 4toscore. 4toscore is one of the biggest marketing promotions where players get to predict the first 4 goal scorers every week in 4 games. The promotion was built using Angular9 and data consumed from a rest API. The most interesting project I did was building a penalty shootout game using HTML5, Canvas, and Phaser. The game was used with big brother Niger Predictor to predict the housemates that would be kicked out.",
+       "roles": [
+         "Actively contribute and participate in the agile development of project timelines, system flow diagrams, and documentation.",
+         "Staying up to date with new technology and helping junior developers on how to incorporate the latest trends.",
+         "Coordinate with architects and business analysts to determine the functionalities of projects.",
+         "Develop technical solutions to complex business problems.",
+         "Generating ideas with team members and offering insightful solutions.",
+         "Utilize standards, architectures, and processes to ensure that all code and development practices conform to industry best practice.",
+         "Attending meetings and briefings with clients.",
+         "Taking responsibility for all Betway promotions development and ownership of thorough quality control.",
+         "Consume REST APIs to develop websites/applications utilizing Angular2+, HTML5, VueJS, Javascript and Sass.",
+         "Setting up source control (git repositories).",
+         "Setting up CI/CD to automate deployment.",
+         "Code reviewing for accuracy, quality, and functionality then approving pull requests.",
+         "Provide support for applications outside of working hours. (On Standby)"
+       ],
+       "projects": [
+         "https://www.betway.partners/",
+         "https://www.betway.co.za/",
+         "https://www.betway.pt/",
+         "https://www.betway.lat/",
+         "https://www.fortunelounge.com/",
+         "https://www.playroyalvegas.com/",
+         "https://www.allslotscasino.com/",
+         "https://www.wintingocasino.com/"
+       ],
+       "tech": [
+         "Angular", "Typescript", "JavaScript", "jQuery", "VueJs", "Phaser", "C#", "SQL", "MVC", "Webpack", "HTML5/SASS", "Kentico CMS", "Git", "TFS", "Jira"
+       ]
+    },
+    {
+      "id": 6,
+      "company": "NEO TECH PTY Ltd",
+      "startdate": "January 2017",
+      "enddate": null,
+      "position": "Software Developer",
+      "summery": "As a software developer when I am not at work I am home busy with personal projects. For the past 4years, I have been freelancing at NEO TECH. I had the opportunity to work on one of the largest banking websites namely Bidvest Bank. Bidvestbank.co.za is a consumer-facing application built on angular10 supported by a rest API hosted on AWS and the source code stored on GitHub. I was the Lead Developer in a team of 2 building the project. I managed the quality and delivery of the project. The project was delivered in time with no comebacks.",
+      "roles": [
+       "Design, develop, and implement solutions to the user's needs and requirements.",
+       "Attending meetings and briefings with clients.",
+       "Code reviewing for accuracy, quality, and functionality then approving pull requests.",
+       "Develop technical solutions to complex business problems.",
+       "Consume REST API's to develop websites/applications utilizing Angular2+, HTML5, VueJS, Javascript, and Sass.",
+       "Run tests and fix bugs.",
+       "Design and develop logical data models that meet application requirements.",
+       "Develop applications that deliver value to the business.",
+       "Develop and maintain angular web applications.",
+       "Managing delivery and delegating work among the team.",
+       "Setting up source control (git repositories).",
+       "Setting up CI/CD to automate deployment."
+      ],
+      "projects":[
+        "https://www.bidvestbank.co.za/",
+        "https://www.neoteck.co.za/",
+        "https://planningafrica.netlify.app/",
+        "https://afrobotanics.netlify.app/",
+        "https://www.tpconsultancy.co.za/",
+        "http://www.clinixvendorapp.com/#/",
+        "https://youthmoneycircle.co.za/"
+      ],
+      "tech": [
+        "Angular", "Typescript", "JavaScript", "jQuery", "VueJs", "SQLlite", "MongoDB", "NodeJS", "MVC", "Webpack", "HTML5/SASS", "WordPress", "Shopify", "Photoshop", "Figma", "Git", "TFS", "Jira"
+      ]
+    },
+    {
+      "id": 7,
+      "company": "Fogg Agency",
+      "startdate": "Feb 2017",
+      "enddate": "May 2017",
+      "position": "Front-end Developer",
+      "summery": "FOGG was a dynamic agency that provided web and mobile development solutions. My roles included developing PSD files into functional web applications. I worked on a few projects including Interactive worksheets. Interactive worksheets is an application used in schools by Eskom to teach students to save electricity. The application was built using Angular and data stored in local storage.",
+      "roles": [
+        "Develop applications that deliver value to the business.",
+        "Developing PSD files into functional web applications.",
+        "Developing new and maintaining existing WordPress sites.",
+        "Develop and maintain angular web applications.",
+        "Ensuring high performance and availability of applications across all devices."
+      ],
+      "projects": [
+        "http://rubybook.co.za/worksheets/#/",
+        "https://www.capetown.travel/"
+      ],
+      "tech": ["AngularJS", "JavaScript", "HTML5/SASS", "WordPress", "jQuery","Git", "Gitlab"]
+    }, {
+      "id": 8,
+      "company": "Softeqa CC",
+      "startdate": "Oct 2014",
+      "enddate": "Jan 2017",
+      "position": "Junior Front-end Developer",
+      "summery": "Softeqa is a full-service digital agency with Big Ideas. My roles included developing PSD files to functional email newsletters and websites. I was responsible for all the Highlife shop, SAA Duty-free, and KQ Duty-free campaigns.",
+      "roles": [
+        "Developing mailers and web applications from PSD files.",
+        "Developing new and maintaining existing WordPress sites.",
+        "Develop and maintain angular web applications.",
+        "Utilize standards, architectures, and processes to ensure that all code and development practices conform to industry best practices.",
+        "Ensuring high performance and availability of applications across all devices."
+      ],
+      "projects": [
+        "https://www.tourvest.co.za/",
+        "https://www.highlifeshop.com/",
+        "https://www.kqdutyfree.com/",
+        "https://www.flysaadutyfree.com/"
+      ],
+      "tech": ["Angular", "JavaScript", "HTML5/SASS", "C#", "MVC Razerpages", "WordPress", "jQuery","Git", "Gitlab"]
+    }
+  ],
+  "project": [
+    {
+      "id": 1,
+      "projectName": "Bidvest Bank Website",
+      "summary": "Consumer facing application built with Angular10",
+      "image": "project_bidvest.jpg",
+      "imageLeft": false,
+      "url": "https://www.bidvestbank.co.za/",
+      "technologies": [
+        {
+          "id": 45,
+          "tech": "Angular",
+          "icon": "angular.svg"
+        },
+        {
+          "id": 48,
+          "tech": "Git",
+          "icon": "git.svg"
+        },
+        {
+          "id": 46,
+          "tech": "Html5",
+          "icon": "html.svg"
+        },
+        {
+          "id": 49,
+          "tech": "NodeJS",
+          "icon": "nodejs.svg"
+        },
+        {
+          "id": 47,
+          "tech": "Sass",
+          "icon": "sass.svg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "projectName": "FOGG Agency - Worksheet",
+      "summary": "Angular web application to teach students to save electricity",
+      "image": "project_eskom.jpg",
+      "imageLeft": true,
+      "url": "http://rubybook.co.za/worksheets/#/",
+      "technologies": [
+        {
+          "id": 34,
+          "tech": "AngulaJS",
+          "icon": "angular.svg"
+        },
+        {
+          "id": 40,
+          "tech": "Git",
+          "icon": "git.svg"
+        },
+        {
+          "id": 35,
+          "tech": "Javascript",
+          "icon": "javascript.svg"
+        },
+        {
+          "id": 39,
+          "tech": "Sass",
+          "icon": "sass.svg"
+        },
+        {
+          "id": 36,
+          "tech": "Html5",
+          "icon": "html.svg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "projectName": "Fortune Lounge",
+      "summary": "Fortune Lounge is a marketing alliance of top international online casinos",
+      "image": "project_fortunelounge.jpg",
+      "imageLeft": false,
+      "url": "https://www.fortunelounge.com/",
+      "technologies": [
+        {
+          "id": 35,
+          "tech": "Javascript",
+          "icon": "javascript.svg"
+        },
+        {
+          "id": 39,
+          "tech": "Sass",
+          "icon": "sass.svg"
+        },
+        {
+          "id": 36,
+          "tech": "Html5",
+          "icon": "html.svg"
+        },
+        {
+          "id": 40,
+          "tech": "Git",
+          "icon": "git.svg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "projectName": "Planning Africa 2018",
+      "summary": "Responsive UI and Web development",
+      "image": "project_planingafrica.jpg",
+      "imageLeft": true,
+      "url": "https://planningafrica.netlify.app/",
+      "technologies": [
+        {
+          "id": 77,
+          "tech": "HTML5",
+          "icon": "html.svg"
+        },
+        {
+          "id": 75,
+          "tech": "Javascript",
+          "icon": "javascript.svg"
+        },
+        {
+          "id": 76,
+          "tech": "JQuery",
+          "icon": "jquery.svg"
+        },
+        {
+          "id": 78,
+          "tech": "Sass",
+          "icon": "sass.svg"
+        },
+        {
+          "id": 79,
+          "tech": "Git",
+          "icon": "git.svg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "projectName": "NEOTECH Website",
+      "summary": "Website UI Development, CMS Development and Content Management.",
+      "image": "project_neotech.jpg",
+      "imageLeft": false,
+      "url": "https://www.neoteck.co.za/",
+      "technologies": [
+        {
+          "id": 37,
+          "tech": "Html5",
+          "icon": "html.svg"
+        },
+        {
+          "id": 38,
+          "tech": "Wordpress",
+          "icon": "wordpress.svg"
+        },
+        {
+          "id": 42,
+          "tech": "Sass",
+          "icon": "sass.svg"
+        },
+        {
+          "id": 44,
+          "tech": "Git",
+          "icon": "git.svg"
+        },
+        {
+          "id": 41,
+          "tech": "Photoshop",
+          "icon": "photoshop.svg"
+        },
+        {
+          "id": 43,
+          "tech": "JQuery",
+          "icon": "jquery.svg"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "projectName": "Tlholo Pele Consulting",
+      "summary": "UI Development and Content Management ",
+      "image": "project_tlholopele.jpg",
+      "imageLeft": true,
+      "url": "https://www.tpconsultancy.co.za/",
+      "technologies": [
+        {
+          "id": 80,
+          "tech": "Html5",
+          "icon": "html.svg"
+        },
+        {
+          "id": 81,
+          "tech": "Sass",
+          "icon": "sass.svg"
+        },
+        {
+          "id": 82,
+          "tech": "Javascript",
+          "icon": "javascript.svg"
+        },
+        {
+          "id": 83,
+          "tech": "JQuery",
+          "icon": "jquery.svg"
+        },
+        {
+          "id": 84,
+          "tech": "WordPress",
+          "icon": "wordpress.svg"
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "id": 1,
+    "address": "Johannesburg",
+    "phone": "0734084441",
+    "email": "lucky@neoteck.co.za",
+    "whatsapp": "https://wa.me/27734084441?text=Hi Lucky, We have opportunities for your skillset. Reply to this message if you are interested"
+  },
+  "social": [
+    {
+      "id": 9,
+      "name": "Github",
+      "icon": "fa-github",
+      "url": "https://github.com/Hlakaza"
+    },
+    {
+      "id": 10,
+      "name": "Twitter",
+      "icon": "fa-twitter",
+      "url": "https://twitter.com/LuckyMrMatch"
+    },
+    {
+      "id": 11,
+      "name": "Linked-In",
+      "icon": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/lucky-hlakaza-753a9b10b/"
+    }
+  ],
+  "services": [
+    {
+      "id": 5,
+      "icon": "fa-laptop",
+      "heading": "UX & Design",
+      "summary": "I use innovative digital techniques to deliver cutting-edge design and intelligent user experiences tailored to your audience."
+    },
+    {
+      "id": 6,
+      "icon": "fa-code",
+      "heading": "Mobile/Web Development",
+      "summary": "With more than 5years of experience using cutting edge technology, I continuously create exceptionally innovative and highly engaging web solutions."
+    },
+    {
+      "id": 7,
+      "icon": "fa-industry",
+      "heading": "Digital Advertising",
+      "summary": "I build and manage targeted digital media campaigns, including social media management that improve visibility, drive traffic, and increase return on investment."
+    }
+  ]
+}

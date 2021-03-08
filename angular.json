@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "luckza": {
+    "nathikoza": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/luckza",
+            "outputPath": "dist",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -71,18 +71,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "luckza:build"
+            "browserTarget": "nathikoza:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "luckza:build:production"
+              "browserTarget": "nathikoza:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "luckza:build"
+            "browserTarget": "nathikoza:build"
           }
         },
         "test": {
@@ -120,15 +120,15 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "luckza:serve"
+            "devServerTarget": "nathikoza:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "luckza:serve:production"
+              "devServerTarget": "nathikoza:serve:production"
             }
           }
         }
       }
     }},
-  "defaultProject": "luckza"
+  "defaultProject": "nathikoza"
 }

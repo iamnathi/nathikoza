@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   date = new Date();
   currentYear = this.date.getFullYear();
-  title = 'luckza';
+  title = 'nathikoza';
 }

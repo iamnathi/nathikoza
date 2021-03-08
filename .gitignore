@@ -2,65 +2,65 @@
 
 # compiled output
 
-/web/dist
+/dist
 
-/web/tmp
+/tmp
 
-/web/out-tsc
+/out-tsc
 # Only exists if Bazel was run
 
-/web/bazel-out
+/bazel-out
 
 # dependencies
 
-/web/node_modules
+/node_modules
 
 # profiling files
 
-/webchrome-profiler-events*.json
+chrome-profiler-events*.json
 
-/webspeed-measure-plugin*.json
+speed-measure-plugin*.json
 
 # IDEs and editors
 
-/web/.idea
+/.idea
 
-/web.project
+.project
 
-/web.classpath
+.classpath
 
-/web.c9/
+.c9/
 
-/web.launch
-/web.settings/
+.launch
+.settings/
 
-/web.sublime-workspace
+.sublime-workspace
 
 # IDE - VSCode
-/web.vscode/*
-/web!.vscode/settings.json
-/web!.vscode/tasks.json
-/web!.vscode/launch.json
-/web!.vscode/extensions.json
-/web.history/*
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
 
 # misc
 
-/web/.sass-cache
+/.sass-cache
 
-/web/connect.lock
-/web/coverage
-/web/libpeerconnection.log
-/webnpm-debug.log
-/webyarn-error.log
-/webtestem.log
-/web/typings
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
 
 # System Files
 
-/web.DS_Store
+.DS_Store
 
-/webThumbs.db
+Thumbs.db
 
 
 # API
